@@ -4,4 +4,4 @@ Domestic Flight Fare Predictions
 ![Demo](https://github.com/indrajanambiar/Flight_Fare_Prediction/blob/main/demo_flight_fare.png)
 
 
-python app.py  ---> to open the application in localhost
+python app.py  ---> To open the application in localhost
