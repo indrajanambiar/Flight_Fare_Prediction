@@ -5,12 +5,15 @@ Domestic Flight Fare Predictions
 
 
 
-pip install virtualenv                  # Install virtual environment
-virtualenv ENV                          # Create virtual environment by the name ENV
-source ENV/bin/activate                 # Activate ENV
-pip install -r requirements.txt         # Install project dependencies
-python app.py                           # Run the project
-deactivate                              # Close virtual environment once done
+| Command                                     | Description                                  |
+| ------------------------------------------- | -------------------------------------------- |
+| `pip install virtualenv`                    | Install virtual environment                  |
+| `virtualenv ENV`                            | Create virtual environment by the name ENV    |
+| `source ENV/bin/activate`                   | Activate ENV                                 |
+| `pip install -r requirements.txt`           | Install project dependencies                 |
+| `python app.py`                             | Run the project                              |
+| `deactivate`                                | Close virtual environment once done           |
+
 
 python app.py  ---> To open the application in localhost
 
