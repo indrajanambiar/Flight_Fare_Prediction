@@ -5,12 +5,13 @@ Domestic Flight Fare Predictions
 
 
 
-  pip install virtualenv                  # install virtual environment
-  virtualenv ENV                          # create virtual environment by the name ENV
-  source ENV/bin/activate                 # activate ENV
-  pip install -r requirements.txt         # install project dependencies
-  python app.py                           # run the project
-  deactivate                              # close virtual environment once done
+pip install virtualenv                  # Install virtual environment
+virtualenv ENV                          # Create virtual environment by the name ENV
+source ENV/bin/activate                 # Activate ENV
+pip install -r requirements.txt         # Install project dependencies
+python app.py                           # Run the project
+deactivate                              # Close virtual environment once done
+
 python app.py  ---> To open the application in localhost
 
 
