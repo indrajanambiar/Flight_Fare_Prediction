@@ -13,3 +13,4 @@ Domestic Flight Fare Predictions
   deactivate                              # close virtual environment once done
 python app.py  ---> To open the application in localhost
 
+
